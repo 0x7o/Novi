@@ -4,6 +4,7 @@ __pycache__/
 ffmpeg/
 vosk-small-en/
 test.*
+tts_cache/
 *$py.class
 
 # C extensions
